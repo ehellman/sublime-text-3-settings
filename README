@@ -1,4 +1,4 @@
-1. Clone into ~/Dropbox/Apps/ or edit DROPBOXFOLDER
+1. Clone into ~/Dropbox/Apps/sublime-text-3
 2. Place your /Packages/ and /Installed Packages/ in the same folder.
 3. ./init.sh
 
