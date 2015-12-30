@@ -1,0 +1,7 @@
+1. Clone into ~/Dropbox/Apps/ or edit DROPBOXFOLDER
+2. Place your /Packages/ and /Installed Packages/ in the same folder.
+3. ./init.sh
+
+This script will
+- Create symlinks in ~/Library/Application Support/Sublime Text 3/ for Packages and Installed Packages from your Dropbox folder, allowing you to sync your settings and packages across devices.
+- Create a symlink for the Sublime Text binary in /usr/local/bin
