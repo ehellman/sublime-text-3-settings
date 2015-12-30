@@ -4,7 +4,7 @@
 #### Directory Structure
 # /Installed Packages/
 # /Packages/
-# exec.sh (this script)
+# init.sh (this script)
 
 
 #### Variables
